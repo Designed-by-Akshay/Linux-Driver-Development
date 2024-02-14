@@ -49,8 +49,6 @@ For tag name, please determine according to the local piOS version and raspberry
 
 https://github.com/raspberrypi/linux/tags
 
-#### Use rpi-source
-Use rpi-source from https://github.com/RPi-Distro/rpi-source it sets up everything you need to build your own kernel (from the current running kernel by default).
 
 
 # References
